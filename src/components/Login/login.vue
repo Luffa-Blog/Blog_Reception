@@ -1,6 +1,5 @@
 <template>
- <div class="root">
-   <h1>Home</h1>
+ <div>
 </div>
 </template>
 <script>
@@ -13,7 +12,4 @@ return {
 }
 </script>
 <style lang='less' scoped>
-.root{
-  text-align: center;
-}
 </style>
